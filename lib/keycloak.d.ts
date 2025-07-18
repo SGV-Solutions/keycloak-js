@@ -115,7 +115,7 @@ export interface KeycloakInitOptions {
 	 * });
 	 * ```
 	 */
-	adapter?: 'default' | 'cordova' | 'cordova-native' | KeycloakAdapter;
+	adapter?: 'default' | 'cordova' | 'cordova-native' | 'capacitor-native' | KeycloakAdapter;
 
 	/**
 	 * Specifies an action to do on load.

@@ -45,6 +45,16 @@
       "lib/*"
     ]
   },
+  "peerDependencies": {
+    "@capacitor/app": "^7.0.1",
+    "@capacitor/browser": "^7.0.1",
+    "@capacitor/core": "^7.4.0"
+  },
+  "optionalDependencies": {
+    "@capacitor/app": "^7.0.1",
+    "@capacitor/browser": "^7.0.1",
+    "@capacitor/core": "^7.4.0"
+  },
   "devDependencies": {
     "jszip": "^3.10.1",
     "ts-standard": "^12.0.2"
