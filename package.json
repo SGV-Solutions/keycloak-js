@@ -1,6 +1,6 @@
 {
-  "name": "keycloak-js",
-  "version": "999.0.0-SNAPSHOT",
+  "name": "@convergente/keycloak-js-capacitor",
+  "version": "0.1.0",
   "type": "module",
   "description": "A client-side JavaScript OpenID Connect library that can be used to secure web applications.",
   "scripts": {
@@ -38,7 +38,9 @@
     "sso",
     "oauth",
     "oauth2",
-    "authentication"
+    "authentication",
+    "capacitor",
+    "ionic"
   ],
   "ts-standard": {
     "ignore": [
